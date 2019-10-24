@@ -14,7 +14,7 @@
     <dependency>
       <groupId>com.tibco.plugins</groupId>
       <artifactId>com.tibco.bw.palette.shared</artifactId>
-      <version>6.1.100</version>
+      <version>6.1.100.003</version>
     </dependency>
   </dependencies>
   <build>
